@@ -1,0 +1,16 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #A5DEF1;
+}
+
+#project {
+  background-color: #A5DEF1;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+body {
+  font: 16px helvetica,arial,sans-serif;
+}
